@@ -1,6 +1,6 @@
 # Tableau-CitiBikeAnalysis
 
-## Link to Tableau Public :
+## Link to Tableau Public : https://public.tableau.com/app/profile/yameena.khan/viz/CitiBikeAnalysis-Homework18/CitiBikeAnalysis#1
 
 ## CitiBike Data Analysis: <br>
 <br>
